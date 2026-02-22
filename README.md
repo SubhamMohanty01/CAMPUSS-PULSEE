@@ -24,7 +24,7 @@ The system aims to make campus problem-reporting more **efficient, transparent, 
    `npm run dev`
    https://mgx.dev/app/dd160348785e434bb7670ffa8842daf7
 
-   
+---   
 
 ## 🚀 Key Features
 
