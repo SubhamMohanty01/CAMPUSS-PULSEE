@@ -35,7 +35,6 @@ The system aims to make campus problem-reporting more **efficient, transparent, 
 - Track submitted complaints easily  
 - Simple and intuitive interface  
 
----
 
 ### 🛠️ For Administrators
 
