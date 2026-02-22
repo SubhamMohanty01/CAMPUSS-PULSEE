@@ -1,4 +1,4 @@
-# 🎓 Campus Pulse — Student Issue Reporting System
+# 🎓 Campuss Pulsee — Student Issue Reporting System
 
 ## 📌 Overview
 
