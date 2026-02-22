@@ -1,3 +1,16 @@
+# 🎓 Campus Pulse — Student Issue Reporting System
+
+## 📌 Overview
+
+**Campus Pulse** is a web-based student reporting platform designed to simplify and speed up communication between students and university administration.
+
+Instead of writing long emails and waiting days for responses, students can directly submit their issues through the portal. These reports are instantly visible to administrators, enabling faster tracking and resolution.
+
+The system aims to make campus problem-reporting more **efficient, transparent, and user-friendly**.
+
+---
+
+
 # 🌐 Live Website
 
 👉 **Visit Campus Pulse:**  
@@ -12,18 +25,6 @@
    https://mgx.dev/app/dd160348785e434bb7670ffa8842daf7
 
    
-
-# 🎓 Campus Pulse — Student Issue Reporting System
-
-## 📌 Overview
-
-**Campus Pulse** is a web-based student reporting platform designed to simplify and speed up communication between students and university administration.
-
-Instead of writing long emails and waiting days for responses, students can directly submit their issues through the portal. These reports are instantly visible to administrators, enabling faster tracking and resolution.
-
-The system aims to make campus problem-reporting more **efficient, transparent, and user-friendly**.
-
----
 
 ## 🚀 Key Features
 
