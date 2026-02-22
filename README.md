@@ -58,7 +58,7 @@ Traditional issue reporting in universities often involves:
 
 - A centralized reporting system  
 - Faster communication  
-- Improved accountability  
+- Clear tracking and accountability  
 
 ---
 
@@ -84,7 +84,7 @@ Traditional issue reporting in universities often involves:
 I contributed to this project by:
 
 - Working on feature implementation  
-- Improving user interface components  
+- Improving UI components  
 - Debugging and testing functionalities  
 - Assisting in overall system development  
 
@@ -92,11 +92,13 @@ I contributed to this project by:
 
 ## 🤝 Credits
 
-This project was developed as a collaborative student project by:
+This project was developed as a **collaborative hackathon project** by:
 
-**Subham Mohanty & Sugandh**
-
----
+- **Subham Mohanty**
+- **Sugandh Kumar**
+- **Aakash Bhardwaj**
+- **Anubhav Raj**
+ 
 
 ## 🎯 Future Improvements
 
