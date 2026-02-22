@@ -99,6 +99,7 @@ This project was developed as a **collaborative hackathon project** by:
 - **Aakash Bhardwaj**
 - **Anubhav Raj**
  
+---
 
 ## 🎯 Future Improvements
 
