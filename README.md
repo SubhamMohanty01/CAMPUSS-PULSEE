@@ -63,7 +63,7 @@ Traditional issue reporting in universities often involves:
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** Typescript, HTML 
 - **Version Control:** Git & GitHub  
 
 ---
